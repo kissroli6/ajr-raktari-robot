@@ -1,0 +1,10 @@
+# .gitignore
+build/
+install/
+log/
+__pycache__/
+*.pyc
+*.pyo
+*.swp
+.venv/
+
